@@ -46,5 +46,5 @@ Best Predicted:
 ## Future Work
 
 - Incorporate weather data (temperature, humditiy)
-- Compare with other models (AutoRegressive Integrated Moving Average (ARIMA), (Long Short-Term Memory (LSTM))
+- Compare with other models (AutoRegressive Integrated Moving Average (ARIMA), Long Short-Term Memory (LSTM))
 - Visualize feature importance and SHAP values
