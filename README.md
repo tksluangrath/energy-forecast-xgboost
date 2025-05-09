@@ -17,7 +17,7 @@ Beyond predicting energy consumption, this project aims to deepen understanding 
 ## Methods
 
 - Time Series Split (Train/Test on 2015 threshold)
-- Feature Engineering: Hour, Day of WEek, Month, etc.
+- Feature Engineering: Hour, Day of Week, Month, etc.
 - XGBoost Regression Model
 - Evaluation using RMSE
 
